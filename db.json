@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "fname": "Peter Bals",
+      "lname": "Bals",
+      "email": "peter@gmail.com",
+      "gender": "male",
+      "phone": "9874567890"
+    },
+    {
+      "id": 3,
+      "fname": "Peter Bals",
+      "lname": "Bals",
+      "email": "amy@gmail.com",
+      "gender": "Male",
+      "phone": "6543567890"
+    },
+    {
+      "fname": "Peter Bals",
+      "lname": "Peter",
+      "email": "melina@gold.com",
+      "gender": "Female",
+      "phone": "8527419632",
+      "id": 4
+    },
+    {
+      "fname": "Peter Bals",
+      "lname": "Bals",
+      "email": "Thiyaga@sir.com",
+      "gender": "Female",
+      "phone": "852937413",
+      "id": 5
+    },
+    {
+      "fname": "qwerty",
+      "lname": "asdfgh",
+      "email": "Thiyaga.195@gmail.com",
+      "gender": "female",
+      "phone": "+6565432198",
+      "id": 9
+    },
+    {
+      "fname": "Malina",
+      "lname": "Thiyaga",
+      "email": "malina@test.com",
+      "gender": "male",
+      "phone": "+6565432198",
+      "id": 10
+    }
+  ]
+}
